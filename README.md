@@ -5,5 +5,5 @@ Requirements:
 1. Get data (2 numbers)
 2. Choose an operator 
 3. Get the result
-d. Reset the screen
+4. Reset the screen
 
